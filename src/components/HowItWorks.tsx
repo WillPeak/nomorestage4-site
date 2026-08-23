@@ -35,7 +35,7 @@ export default function HowItWorks() {
             <div className="flex flex-col md:flex-row items-center md:items-start">
               <div className="md:w-1/2 md:pr-8 md:text-right order-1 hidden md:block"></div>
               <div className="min-w-[48px] w-12 h-12 bg-[#cc2e83] rounded-full flex items-center justify-center z-10 mb-4 md:mb-0 order-1 md:order-2 mx-auto md:mx-4 flex-shrink-0">
-                <span className="text-white font-bold">1</span>
+                <span className="text-white font-bold">2</span>
               </div>
               <div className="md:w-1/2 md:pl-8 order-2 md:order-3">
                 <h3 className="text-xl font-semibold text-white mb-2 text-center md:text-left">Complete Pre-Screening</h3>
