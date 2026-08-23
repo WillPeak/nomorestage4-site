@@ -1,1 +1,0 @@
-import{r as t,j as o}from"./vendor-react-DDXJxHXf.js";const s=t.createContext(void 0),n=({client:r,children:e})=>(t.useEffect(()=>(r.mount(),()=>{r.unmount()}),[r]),o.jsx(s.Provider,{value:r,children:e}));export{n as Q};
